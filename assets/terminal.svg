@@ -1,0 +1,33 @@
+<svg width="900" height="330" viewBox="0 0 900 330" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+          <linearGradient id="tbg" x1="0" y1="0" x2="900" y2="330" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#0d1117"/>
+                  <stop offset="1" stop-color="#0a0e14"/>
+          </linearGradient>
+    </defs>
+
+    <rect width="900" height="330" rx="12" fill="url(#tbg)" stroke="#30363d" stroke-width="1"/>
+
+    <rect width="900" height="38" rx="12" fill="#161b22"/>
+    <rect y="26" width="900" height="12" fill="#161b22"/>
+    <circle cx="26" cy="19" r="6" fill="#ff5f56"/>
+    <circle cx="48" cy="19" r="6" fill="#ffbd2e"/>
+    <circle cx="70" cy="19" r="6" fill="#27c93f"/>
+    <text x="450" y="24" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="12.5" fill="#8b949e">kasi@dataeng:~</text>
+
+    <g font-family="SFMono-Regular, Consolas, monospace" font-size="15.5">
+          <text x="24" y="72"><tspan fill="#27c93f">guest@dataeng</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#6366F1">~</tspan><tspan fill="#c9d1d9">$ whoami</tspan></text>
+          <text x="24" y="98" fill="#22D3EE">Kasi Rahul M &#8212; data engineer, CSE @ VIT Vellore</text>
+
+          <text x="24" y="134"><tspan fill="#27c93f">guest@dataeng</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#6366F1">~</tspan><tspan fill="#c9d1d9">$ cat focus.txt</tspan></text>
+          <text x="24" y="160" fill="#c9d1d9">data pipelines @ scale &#183; applied ML forecasting &#183; cloud infra</text>
+
+          <text x="24" y="196"><tspan fill="#27c93f">guest@dataeng</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#6366F1">~</tspan><tspan fill="#c9d1d9">$ cat currently.txt</tspan></text>
+          <text x="24" y="222" fill="#c9d1d9">Data Engineering Intern @ FedEx Dataworks &#8212; Databricks / PySpark</text>
+
+          <text x="24" y="258"><tspan fill="#27c93f">guest@dataeng</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#6366F1">~</tspan><tspan fill="#c9d1d9">$ cat stack.txt</tspan></text>
+          <text x="24" y="284" fill="#c9d1d9">python &#183; pyspark &#183; sql &#183; pytorch &#183; fastapi &#183; docker &#183; aws</text>
+
+          <text x="24" y="316"><tspan fill="#27c93f">guest@dataeng</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#6366F1">~</tspan><tspan fill="#c9d1d9">$ </tspan><tspan fill="#c9d1d9">&#9608;</tspan></text>
+    </g>
+</svg>
