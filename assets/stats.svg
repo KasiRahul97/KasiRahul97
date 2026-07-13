@@ -1,0 +1,33 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+          <linearGradient id="sbg" x1="0" y1="0" x2="1000" y2="140" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#0d1117"/>
+                  <stop offset="1" stop-color="#10141c"/>
+          </linearGradient>
+    </defs>
+    <rect width="1000" height="140" rx="10" fill="url(#sbg)"/>
+
+    <g font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
+          <text x="100" y="62" font-size="32" font-weight="700" fill="#22D3EE">0.73</text>
+          <text x="100" y="88" font-size="12" fill="#8b949e">R&#178; at 4h forecast</text>
+
+          <text x="300" y="62" font-size="32" font-weight="700" fill="#22D3EE">7</text>
+          <text x="300" y="88" font-size="12" fill="#8b949e">models, one honest protocol</text>
+
+          <text x="500" y="62" font-size="32" font-weight="700" fill="#22D3EE">8.74</text>
+          <text x="500" y="88" font-size="12" fill="#8b949e">CGPA / 10 &#183; VIT Vellore</text>
+
+          <text x="700" y="62" font-size="32" font-weight="700" fill="#22D3EE">1,200+</text>
+          <text x="700" y="88" font-size="12" fill="#8b949e">registrations driven, RIVIERA'26</text>
+
+          <text x="900" y="62" font-size="30" font-weight="700" fill="#22D3EE">multi-TB</text>
+          <text x="900" y="88" font-size="12" fill="#8b949e">pipelines in production</text>
+    </g>
+
+    <g stroke="#30363d" stroke-width="1">
+          <line x1="200" y1="35" x2="200" y2="105"/>
+          <line x1="400" y1="35" x2="400" y2="105"/>
+          <line x1="600" y1="35" x2="600" y2="105"/>
+          <line x1="800" y1="35" x2="800" y2="105"/>
+    </g>
+</svg>
