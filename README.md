@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Kasi%20Rahul%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%C2%B7%20Data%20Engineering%20%C2%B7%20Cloud&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/KasiRahul97">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=CSE+Undergraduate+%40+VIT+Vellore;Data+Engineering+Intern+%40+FedEx+Dataworks;I+build+pipelines%2C+models%2C+and+the+odd+3+AM+bug+fix;Currently%3A+diagnosing+why+R%C2%B2+went+negative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=680&lines=CSE+Undergraduate+%40+VIT+Vellore;Ex+Data+Engineering+Intern+%40+FedEx+Dataworks;I+build+pipelines%2C+models%2C+and+the+odd+3+AM+bug+fix;Currently%3A+diagnosing+why+R%C2%B2+went+negative" alt="Typing SVG" />
 </a>
 
 <br/>
