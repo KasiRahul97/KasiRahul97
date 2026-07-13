@@ -117,7 +117,7 @@ Relevant coursework: Data Structures & Algorithms, Machine Learning, Deep Learni
 
 ## Leadership & Achievements
 
-- **Student Manager, Publicity & Marketing — GRAVITAS '25 (VIT Flagship Fest)**: led nationwide outreach driving 1,200+ external registrations through cold calling, email campaigns, and institutional engagement
+- **Student Manager, Publicity & Marketing — RIVIERA'26 (VIT Annual Cultural Fest)**: led nationwide outreach driving 1,200+ external registrations through cold calling, email campaigns, and institutional engagement
 - **Management Head, Geospatial Club, VIT**: served on the executive board, planning and executing technical events and workshops
 
 <br/>
